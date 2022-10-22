@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class KtsprindsecurityApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello from spring app loaded");
+		System.out.println("Hello from spring app loaded test");
 		SpringApplication.run(KtsprindsecurityApplication.class, args);
 	}
 
